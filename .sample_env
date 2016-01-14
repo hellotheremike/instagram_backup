@@ -1,0 +1,5 @@
+#Rename file to .env
+
+CLIENT_ID=your_id
+CLIENT_SECRET=your_secret
+INSTAGRAM_USER_ID=instagram_user_id_you_want_to_backup

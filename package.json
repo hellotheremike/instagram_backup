@@ -1,0 +1,23 @@
+{
+  "name": "",
+  "description": "",
+  "version": "0.0.0",
+  "private": true,
+  "author": "Mikael Hallgren",
+  "homepage": "",
+  "dependencies": {
+    "dotenv": "^1.2.0",
+    "instagram-node": "^0.5.8",
+    "lodash": "^3.10.1",
+    "request": "^2.67.0"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "repository": "",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ]
+}
